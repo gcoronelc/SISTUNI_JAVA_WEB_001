@@ -1,0 +1,27 @@
+CLONAR UN REPOSITORIO
+----------------------
+
+git clone ruta_nombre.git
+
+
+ACTUALIZAR UN REPOSITORIO
+------------------------------
+
+git pull origin master
+
+
+SUBIR TODOS LOS CAMBIOS
+-----------------------------------
+
+git status
+
+git add .
+
+git commit -m "descripcion de los cambios"
+
+git push origin master
+
+
+
+
+
