@@ -26,3 +26,10 @@
 - https://www.udemy.com/git-bash/
 - http://www.librosdigitales.net
 
+# CLASE 01
+
+- Fecha: 10-FEB-2016
+- Introducción a Git
+- Servlets
+- JSP
+- MVC
