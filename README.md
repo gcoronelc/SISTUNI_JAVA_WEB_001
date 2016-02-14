@@ -25,6 +25,7 @@
 - https://github.com/gcoronelc/PECI-Java-MAR-2015
 - https://www.udemy.com/git-bash/
 - http://www.librosdigitales.net
+- http://www.desarrolloweb.com/articulos/entiende-instala-configura-git.html
 
 # CLASE 01
 
