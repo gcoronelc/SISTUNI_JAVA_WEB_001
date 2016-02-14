@@ -17,15 +17,16 @@
 
 # RECURSOS RECOMENDADOS
 
-- http://www.sistemasuni.edu.pe/dmodulos/JavaveloperCC.html
-- http://www.sistemasuni.edu.pe/dcursos/cjavadesapliweb.html
-- http://gcoronelc.blogspot.pe/2013/06/resumen-seminario-java-cliente-servidor.html
-- http://gcoronelc.blogspot.pe/2011/02/libros-de-oracle.html
-- http://gcoronelc.blogspot.pe/p/java.html
-- https://github.com/gcoronelc/PECI-Java-MAR-2015
-- https://www.udemy.com/git-bash/
-- http://www.librosdigitales.net
-- http://www.desarrolloweb.com/articulos/entiende-instala-configura-git.html
+- Programa Java Developer: http://www.sistemasuni.edu.pe/dmodulos/JavaveloperCC.html
+- Contenido del curso: http://www.sistemasuni.edu.pe/dcursos/cjavadesapliweb.html
+- Seminario de Java JDBC: http://gcoronelc.blogspot.pe/2013/06/resumen-seminario-java-cliente-servidor.html
+- Libros de Oracle: http://gcoronelc.blogspot.pe/2011/02/libros-de-oracle.html
+- Página de artículos de Java: http://gcoronelc.blogspot.pe/p/java.html
+- Repositorio de un curso de Java: https://github.com/gcoronelc/PECI-Java-MAR-2015
+- Curso de Git: https://www.udemy.com/git-bash/
+- Portal de cursos virtuales: http://www.librosdigitales.net
+- Artículo de Git: http://www.desarrolloweb.com/articulos/entiende-instala-configura-git.html
+- Curso de Git y GitHub: https://www.youtube.com/watch?v=NmbqlkLTOSI
 
 # CLASE 01
 
@@ -34,3 +35,13 @@
 - Servlets
 - JSP
 - MVC
+
+# CLASE 02
+
+- Fecha: 12-FEB-2016
+- Servlets
+- JSP
+- MVC
+- JSTL
+
+
