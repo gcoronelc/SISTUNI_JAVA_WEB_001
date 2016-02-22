@@ -35,6 +35,7 @@
   </form>
   </c:if>
   
+  
   <c:if test="${mensaje != null}">
     <p style="color:blue;">${mensaje}</p>
   </c:if>

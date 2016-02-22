@@ -44,4 +44,8 @@
 - MVC
 - JSTL
 
+# CLASE 03
+
+- Fecha: 22-FEB-2016
+- Sesiones
 
