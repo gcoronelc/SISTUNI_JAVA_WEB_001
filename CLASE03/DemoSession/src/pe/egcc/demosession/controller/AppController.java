@@ -31,8 +31,6 @@ public class AppController extends HttpServlet {
       break;
     }
 	}
-
-	
 	
 
   private void addProducto(HttpServletRequest request, 
