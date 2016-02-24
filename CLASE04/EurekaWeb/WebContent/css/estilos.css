@@ -1,0 +1,39 @@
+@CHARSET "ISO-8859-1";
+
+body{
+	font-size: 12px;
+	background-color: #BDBDBD;
+}
+
+.msgError{
+	margin: 5px;
+	background-color: #FBEFF2;
+	color: #6E6E6E;
+	padding: 5px 10px;
+}
+
+#divPAGINA{
+	width: 900px;
+	background-color: #5882FA;
+	margin: 10px auto;
+	padding: 10px;
+}
+
+#divCABECERA{
+	width: 880px;
+	background-color: white;
+	padding: 10px;
+}
+
+#divMENU{
+	width: 880px;
+  background-color: #BDBDBD;
+  padding: 10px;
+}
+
+
+#divWORK{
+	width: 880px;
+  background-color: white;
+  padding: 10px;
+}
