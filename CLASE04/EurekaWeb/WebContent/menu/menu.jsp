@@ -1,23 +1,46 @@
 <div class="menu">
 	<ul>
+	
 		<li><a href="#" >Home</a></li>
-		<li><a href="#" id="current">Products</a>
+		
+		<li><a href="#">Procesos</a>
 			<ul>
-				<li><a href="#">Drop Down CSS Menus</a></li>
-				<li><a href="#">Horizontal CSS Menus</a></li>
-				<li><a href="#">Vertical CSS Menus</a></li>
-				<li><a href="#">Dreamweaver Menus</a></li>
+				<li><a href="#">Crear cuenta</a></li>
+				<li><a href="javascript: fnLoadPage('deposito.jsp');">Depósito</a></li>
+				<li><a href="#">Retiro</a></li>
+				<li><a href="#">Transferencia</a></li>
 		   </ul>
 	  </li>
-		<li><a href="/faq.php">FAQ</a>
-			<ul>
-			<li><a href="#">Drop Down CSS Menus</a></li>
-			<li><a href="#">Horizontal CSS Menus</a></li>
-			<li><a href="#">Vertical CSS Menus</a></li>
-			<li><a href="#">Dreamweaver Menus</a></li>
-			</ul>
-	  </li>
-		<li><a href="/contact/contact.php">Contact</a></li>
+
+    <li><a href="#">Tablas</a>
+      <ul>
+        <li><a href="#">Clientes</a></li>
+        <li><a href="#">Sucursales</a></li>
+        <li><a href="#">Empleados</a></li>
+       </ul>
+    </li>
+
+    <li><a href="#">Consultas</a>
+      <ul>
+        <li><a href="#">Movimientos</a></li>
+        <li><a href="#">Clientes</a></li>
+       </ul>
+    </li>
+
+    <li><a href="#">Reportes</a>
+      <ul>
+        <li><a href="#">Movimientos</a></li>
+        <li><a href="#">Clientes</a></li>
+       </ul>
+    </li>
+
 	</ul>
 </div>
 
+<script type="text/javascript">
+
+  function fnLoadPage(pagina){
+    $("#divWORK").load(pagina);
+  }
+
+</script>

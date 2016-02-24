@@ -37,3 +37,18 @@ body{
   background-color: white;
   padding: 10px;
 }
+
+h1{
+	color: #0174DF;
+	font-size: 16px;
+	border-bottom-color: #0174DF;
+	border-bottom-style: solid;
+	border-bottom-width: 2px; 
+}
+
+.btnProcesar{
+	background-color: #2A8EE1;
+	color: white;
+	height: 30px;
+	padding: 5px;
+}
