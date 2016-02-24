@@ -24,7 +24,7 @@ public final class AccesoDB {
     Connection cn = null;
     // Parametros para la conexión con JDBC
     String driver = "oracle.jdbc.OracleDriver";
-    String urlDB = "jdbc:oracle:thin:@172.17.3.126:1521:XE";
+    String urlDB = "jdbc:oracle:thin:@localhost:1521:XE";
     String user = "eureka";
     String pass = "admin";
     // Proceso
